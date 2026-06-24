@@ -30,7 +30,7 @@ public:
             for(int i=0;i<4;i++){
                 int nrow=row+dr[i];
                 int ncol=col+dc[i];
-                 if(nrow>=0 && nrow<n && ncol>=0 && ncol<m  && vis[nrow][ncol]==0){
+                 if(nrow>=0 && nrow<n && ncol>=0 && ncol<m  && vis[nrow][ncol]==0 && mat[nrow][ncol]==1){
                     q.push({{nrow,ncol},steps+1});
                     vis[nrow][ncol]=1;
                     
