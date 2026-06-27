@@ -67,7 +67,7 @@ public:
             pq.pop();
             int node=it.second;
             long long  dis=it.first;
-            if(dis >dist[node]) continue;
+           // if(dis >dist[node]) continue;
             for(auto it:adj[node]){
                 int adjnode=it.first;
                 int edgewt=it.second;
