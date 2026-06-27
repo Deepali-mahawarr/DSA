@@ -1,26 +1,26 @@
 class Solution {
 public:
     int maximumLength(vector<int>& nums) {
-        unordered_map<long long, int> cnt;
-        for (int num : nums) {
-            cnt[num]++;
-        }
-        int ans = 0;
-        // ans is at least the number of occurrences of 1, rounded down to an
-        // odd number
-        if (cnt[1] % 2 == 0) {
-            ans = cnt[1] - 1;
-        } else {
-            ans = cnt[1];
-        }
-        cnt.erase(1);
-        for (auto& [num, _] : cnt) {
-            int res = 0;
-            long long x = num;
-            for (; cnt.contains(x) && cnt[x] > 1; x *= x) {
-                res += 2;
+        int ans=0;
+        map<long long,int>freqmpp;
+        for(auto el:nums)
+        freqmpp[el]++;
+        for(auto [el,freq]:freqmpp){
+        long long x=el;
+            int cnt=0;
+            while(freqmpp.find(x)!=freqmpp.end() && freqmpp[x]){
+            if(x==1) cnt+=freqmpp[1];
+            else if(freqmpp[x]>=2) cnt+=2;
+            else if(freqmpp[x]==1){
+                cnt++;
+                break;
             }
-            ans = max(ans, res + (cnt.contains(x) ? 1 : -1));
+            freqmpp[x]=0;
+            if(x>1e6)
+            break;
+            x=x*x;
+        }
+        ans=max(ans,cnt-(cnt%2==0));
         }
         return ans;
     }
