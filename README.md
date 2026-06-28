@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Deepali-mahawarr/DSA/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/Deepali-mahawarr/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Deepali-mahawarr/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2104-sum-of-subarray-ranges](https://github.com/Deepali-mahawarr/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Deepali-mahawarr/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Deepali-mahawarr/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
@@ -144,10 +145,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Deepali-mahawarr/DSA/tree/master/0042-trapping-rain-water) |
+| [2104-sum-of-subarray-ranges](https://github.com/Deepali-mahawarr/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Deepali-mahawarr/DSA/tree/master/0042-trapping-rain-water) |
+| [2104-sum-of-subarray-ranges](https://github.com/Deepali-mahawarr/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Enumeration
 |  |
 | ------- |
