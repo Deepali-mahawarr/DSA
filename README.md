@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Deepali-mahawarr/DSA/tree/master/0542-01-matrix) |
 | [1020-number-of-enclaves](https://github.com/Deepali-mahawarr/DSA/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/Deepali-mahawarr/DSA/tree/master/1631-path-with-minimum-effort) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Deepali-mahawarr/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Deepali-mahawarr/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Deepali-mahawarr/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
@@ -153,4 +154,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Deepali-mahawarr/DSA/tree/master/0204-count-primes) |
+## Greedy
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Deepali-mahawarr/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Sorting
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Deepali-mahawarr/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 <!---LeetCode Topics End-->
