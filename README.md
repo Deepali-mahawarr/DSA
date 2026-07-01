@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Deepali-mahawarr/DSA/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/Deepali-mahawarr/DSA/tree/master/0070-climbing-stairs) |
 | [0542-01-matrix](https://github.com/Deepali-mahawarr/DSA/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Deepali-mahawarr/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/Deepali-mahawarr/DSA/tree/master/0907-sum-of-subarray-minimums) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Deepali-mahawarr/DSA/tree/master/0029-divide-two-integers) |
+| [0070-climbing-stairs](https://github.com/Deepali-mahawarr/DSA/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Deepali-mahawarr/DSA/tree/master/0204-count-primes) |
 ## Bit Manipulation
 |  |
@@ -223,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Deepali-mahawarr/DSA/tree/master/0735-asteroid-collision) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Deepali-mahawarr/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
