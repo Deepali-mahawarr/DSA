@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Deepali-mahawarr/DSA/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Deepali-mahawarr/DSA/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/Deepali-mahawarr/DSA/tree/master/0213-house-robber-ii) |
+| [0239-sliding-window-maximum](https://github.com/Deepali-mahawarr/DSA/tree/master/0239-sliding-window-maximum) |
 | [0542-01-matrix](https://github.com/Deepali-mahawarr/DSA/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/Deepali-mahawarr/DSA/tree/master/0721-accounts-merge) |
 | [0735-asteroid-collision](https://github.com/Deepali-mahawarr/DSA/tree/master/0735-asteroid-collision) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Deepali-mahawarr/DSA/tree/master/0239-sliding-window-maximum) |
 | [0743-network-delay-time](https://github.com/Deepali-mahawarr/DSA/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Deepali-mahawarr/DSA/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Deepali-mahawarr/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Deepali-mahawarr/DSA/tree/master/0239-sliding-window-maximum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Deepali-mahawarr/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Simulation
 |  |
@@ -257,4 +260,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/Deepali-mahawarr/DSA/tree/master/1192-critical-connections-in-a-network) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Deepali-mahawarr/DSA/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Deepali-mahawarr/DSA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
