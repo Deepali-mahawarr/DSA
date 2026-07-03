@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2381-shifting-letters-ii](https://github.com/Deepali-mahawarr/DSA/tree/master/2381-shifting-letters-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Deepali-mahawarr/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Deepali-mahawarr/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3620-network-recovery-pathways](https://github.com/Deepali-mahawarr/DSA/tree/master/3620-network-recovery-pathways) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Deepali-mahawarr/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Deepali-mahawarr/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1463-cherry-pickup-ii](https://github.com/Deepali-mahawarr/DSA/tree/master/1463-cherry-pickup-ii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Deepali-mahawarr/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3620-network-recovery-pathways](https://github.com/Deepali-mahawarr/DSA/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Deepali-mahawarr/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Deepali-mahawarr/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Deepali-mahawarr/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3620-network-recovery-pathways](https://github.com/Deepali-mahawarr/DSA/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
 | ------- |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Deepali-mahawarr/DSA/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/Deepali-mahawarr/DSA/tree/master/0802-find-eventual-safe-states) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Deepali-mahawarr/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3620-network-recovery-pathways](https://github.com/Deepali-mahawarr/DSA/tree/master/3620-network-recovery-pathways) |
 ## Math
 |  |
 | ------- |
@@ -184,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Deepali-mahawarr/DSA/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/Deepali-mahawarr/DSA/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Deepali-mahawarr/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Deepali-mahawarr/DSA/tree/master/3620-network-recovery-pathways) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -193,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Deepali-mahawarr/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Deepali-mahawarr/DSA/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Deepali-mahawarr/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Deepali-mahawarr/DSA/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
@@ -200,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Deepali-mahawarr/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Deepali-mahawarr/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Deepali-mahawarr/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3620-network-recovery-pathways](https://github.com/Deepali-mahawarr/DSA/tree/master/3620-network-recovery-pathways) |
 ## Two Pointers
 |  |
 | ------- |
