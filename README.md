@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Deepali-mahawarr/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Deepali-mahawarr/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
 |  |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Deepali-mahawarr/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Deepali-mahawarr/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Prefix Sum
 |  |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Deepali-mahawarr/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/Deepali-mahawarr/DSA/tree/master/0239-sliding-window-maximum) |
 | [0743-network-delay-time](https://github.com/Deepali-mahawarr/DSA/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Deepali-mahawarr/DSA/tree/master/0778-swim-in-rising-water) |
@@ -370,4 +373,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/Deepali-mahawarr/DSA/tree/master/0992-subarrays-with-k-different-integers) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Deepali-mahawarr/DSA/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
