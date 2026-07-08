@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Deepali-mahawarr/DSA/tree/master/0735-asteroid-collision) |
 | [0778-swim-in-rising-water](https://github.com/Deepali-mahawarr/DSA/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Deepali-mahawarr/DSA/tree/master/0827-making-a-large-island) |
+| [0846-hand-of-straights](https://github.com/Deepali-mahawarr/DSA/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/Deepali-mahawarr/DSA/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/Deepali-mahawarr/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/Deepali-mahawarr/DSA/tree/master/0930-binary-subarrays-with-sum) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Deepali-mahawarr/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0621-task-scheduler](https://github.com/Deepali-mahawarr/DSA/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/Deepali-mahawarr/DSA/tree/master/0721-accounts-merge) |
+| [0846-hand-of-straights](https://github.com/Deepali-mahawarr/DSA/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/Deepali-mahawarr/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Deepali-mahawarr/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Deepali-mahawarr/DSA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Deepali-mahawarr/DSA/tree/master/0402-remove-k-digits) |
 | [0621-task-scheduler](https://github.com/Deepali-mahawarr/DSA/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Deepali-mahawarr/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0846-hand-of-straights](https://github.com/Deepali-mahawarr/DSA/tree/master/0846-hand-of-straights) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Deepali-mahawarr/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sorting
 |  |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Deepali-mahawarr/DSA/tree/master/0368-largest-divisible-subset) |
 | [0621-task-scheduler](https://github.com/Deepali-mahawarr/DSA/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/Deepali-mahawarr/DSA/tree/master/0721-accounts-merge) |
+| [0846-hand-of-straights](https://github.com/Deepali-mahawarr/DSA/tree/master/0846-hand-of-straights) |
 | [1048-longest-string-chain](https://github.com/Deepali-mahawarr/DSA/tree/master/1048-longest-string-chain) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Deepali-mahawarr/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## String
