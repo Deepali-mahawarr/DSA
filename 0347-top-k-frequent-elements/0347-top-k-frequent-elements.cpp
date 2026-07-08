@@ -8,8 +8,8 @@ public:
         greater<pair<int,int>>>minH;
         int n=nums.size();
 
-        for(int i=0;i<n;i++){
-            mpp[nums[i]]++;
+        for(auto it:nums){
+            mpp[it]++;
         }
         for(auto it:mpp){
             minH.push({it.second,it.first});
