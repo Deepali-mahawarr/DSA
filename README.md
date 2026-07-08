@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Deepali-mahawarr/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Deepali-mahawarr/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Deepali-mahawarr/DSA/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/Deepali-mahawarr/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Deepali-mahawarr/DSA/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Deepali-mahawarr/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/Deepali-mahawarr/DSA/tree/master/0542-01-matrix) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Deepali-mahawarr/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deepali-mahawarr/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/Deepali-mahawarr/DSA/tree/master/0127-word-ladder) |
+| [0347-top-k-frequent-elements](https://github.com/Deepali-mahawarr/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Deepali-mahawarr/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0621-task-scheduler](https://github.com/Deepali-mahawarr/DSA/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/Deepali-mahawarr/DSA/tree/master/0721-accounts-merge) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Deepali-mahawarr/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/Deepali-mahawarr/DSA/tree/master/0347-top-k-frequent-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Deepali-mahawarr/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
 |  |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Deepali-mahawarr/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/Deepali-mahawarr/DSA/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/Deepali-mahawarr/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Deepali-mahawarr/DSA/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/Deepali-mahawarr/DSA/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Deepali-mahawarr/DSA/tree/master/0778-swim-in-rising-water) |
@@ -320,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Deepali-mahawarr/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Deepali-mahawarr/DSA/tree/master/0368-largest-divisible-subset) |
 | [0621-task-scheduler](https://github.com/Deepali-mahawarr/DSA/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/Deepali-mahawarr/DSA/tree/master/0721-accounts-merge) |
@@ -401,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Deepali-mahawarr/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Deepali-mahawarr/DSA/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Deepali-mahawarr/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 ## Linked List
@@ -411,4 +417,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Deepali-mahawarr/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Deepali-mahawarr/DSA/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Deepali-mahawarr/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
