@@ -30,7 +30,7 @@ public:
         cuts.insert(cuts.begin(),0);
         sort(cuts.begin(),cuts.end());
         for(int i=c;i>=1;i--){
-            for(int j=1;j<=c;j++){
+            for(int j=i;j<=c;j++){
                 if(i>j) continue;
                 int mini=INT_MAX;
                 for(int ind=i;ind<=j;ind++){
