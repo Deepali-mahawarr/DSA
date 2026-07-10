@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deepali-mahawarr/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0038-count-and-say](https://github.com/Deepali-mahawarr/DSA/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/Deepali-mahawarr/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Deepali-mahawarr/DSA/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Deepali-mahawarr/DSA/tree/master/0127-word-ladder) |
