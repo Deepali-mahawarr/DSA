@@ -11,7 +11,7 @@ public:
                 cnt++;
                 i++;
             }
-            result+=to_string(cnt)+string(1,ch);
+            result+=to_string(cnt)+ch;
         }
         return result;
         
