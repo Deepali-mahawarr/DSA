@@ -5,16 +5,18 @@ public:
         for(auto &it:times){
             adj[it[0]].push_back({it[1],it[2]});
         }
-         priority_queue<
-            pair<int,int>,
-            vector<pair<int,int>>,
-            greater<pair<int ,int>>
-        > pq;
+        //  priority_queue<
+        //     pair<int,int>,
+        //     vector<pair<int,int>>,
+        //     greater<pair<int ,int>>
+        // > pq;
+        queue<pair<int,int>>pq;
         vector<int>dist(n+1,1e9);
         dist[k]=0;
         pq.push({0,k});
         while(!pq.empty()){
-            auto it=pq.top();
+            // auto it=pq.top();
+            auto it=pq.front();
             pq.pop();
             int node=it.second;
             int time=it.first;
