@@ -19,8 +19,8 @@ while(s<=e){
          }
                   
             else{
-              e=mid-1;
                 ans=min(ans,nums[mid]);
+              e=mid-1;
             }
 
         }
