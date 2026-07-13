@@ -1,6 +1,6 @@
 class Solution {
 public:
-int findidx(vector<vector<int>>&mat,int n,int m,int col){
+int findrowidx(vector<vector<int>>& mat,int n,int m,int col){
     int maxval=-1;
     int idx=-1;
     for(int i=0;i<n;i++){
@@ -18,16 +18,16 @@ int findidx(vector<vector<int>>&mat,int n,int m,int col){
         int high=m-1;
         while(low<=high){
             int mid=low+(high-low)/2;
-            int maxrow_idx=findidx(mat,n,m,mid);
-            int left= mid-1>=0 ? mat[maxrow_idx][mid-1]:-1;
-            int right= mid+1<m ? mat[maxrow_idx][mid+1]:-1;
-            if(mat[maxrow_idx][mid]>left && mat[maxrow_idx][mid]>right)
-            return {maxrow_idx,mid};
-            else if(mat[maxrow_idx][mid]<left)
-            high=mid-1;
-            else 
-            low=mid+1;
-
+            int maxrowidx=findrowidx(mat,n,m,mid);
+            int left=mid-1>=0 ? mat[maxrowidx][mid-1]:-1;
+            int right=mid+1<m ? mat[maxrowidx][mid+1]:-1;
+            if(left<mat[maxrowidx][mid] && right < mat[maxrowidx][mid]){
+                return {maxrowidx,mid};
+                }
+                else if(left > mat[maxrowidx][mid])
+                high=mid-1;
+                else
+                low=mid+1;
         }
         return {-1,-1};
         
