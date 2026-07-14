@@ -58,48 +58,49 @@ public:
         for(int row=0;row<n;row++){
             for(int col=0;col<n;col++){
                 if(grid[row][col]==0) continue;
-                int dr[4]={0,0,1,-1};
-                int dc[4]={-1,1,0,0};
+                int dr[4]={0,0,-1,1};
+                int dc[4]={1,-1,0,0};
                 for(int k=0;k<4;k++){
-                    int nrow=row+dr[k];
-                    int ncol=col+dc[k];
-                    if(nrow>=0 && nrow<n && ncol>=0 && ncol<m && grid[nrow][ncol]==1){
+                    int newr=row+dr[k];
+                    int newc=col+dc[k];
+                    if(newr>=0 && newr<n && newc>=0 && newc<n && grid[newr][newc]==1){
                         int node=row*n+col;
-                        int adjnode=nrow*n+ncol;
+                        int adjnode=newr*n+newc;
                         ds.unionBysize(node,adjnode);
                     }
                 }
             }
         }
         int maxi=0;
-        for(int row=0;row<n;row++){
+         for(int row=0;row<n;row++){
             for(int col=0;col<n;col++){
                 if(grid[row][col]==1) continue;
-                int dr[4]={0,0,1,-1};
-                int dc[4]={-1,1,0,0};
-                set<int>components;
+                int dr[4]={0,0,-1,1};
+                int dc[4]={1,-1,0,0};
+                set<int>componets;
                 for(int k=0;k<4;k++){
-                    int nrow=row+dr[k];
-                    int ncol=col+dc[k];
-                    if(nrow>=0 && nrow<n && ncol>=0 && ncol<m && grid[nrow][ncol]==1){
-                        int node=row*n+col;
-                        int adjnode=nrow*n+ncol;
-                        components.insert(ds.findUpar(adjnode));
+                    int newr=row+dr[k];
+                    int newc=col+dc[k];
+                    if(newr>=0 && newr<n && newc>=0 && newc<n && grid[newr][newc]==1){
+                         int node=row*n+col;
+                        int adjnode=newr*n+newc;
+                        componets.insert(ds.findUpar(adjnode));
                     }
                 }
-
-        int totalsize=0;
-        for(auto it:components){
-            totalsize+=ds.size[it];
-        }
-        maxi=max(maxi,totalsize+1);
+                int totalsize=0;
+                for(auto it:componets){
+                    totalsize+=ds.size[it];
+                }
+                maxi=max(maxi,totalsize+1);
             }
-        }
-        for(int i=0;i<n*n;i++){
+         }
+         
+         for(int i=0;i<n*n;i++){
             maxi=max(maxi,ds.size[ds.findUpar(i)]);
-        }
-        return maxi;
-        
+
+         }
+         return maxi;
+
 
         
     }
