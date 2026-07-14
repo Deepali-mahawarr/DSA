@@ -1,8 +1,9 @@
-// User function Template for C++
 class Disjointset{
+   
     vector<int>rank,parent,size;
     public:
     Disjointset(int n){
+        
         rank.resize(n+1,0);
         parent.resize(n+1,0);
         size.resize(n+1,0);
@@ -50,41 +51,44 @@ class Disjointset{
          
      }
 };
+
 class Solution {
 public:
-    vector<vector<string>> accountsMerge(vector<vector<string>>& nums) {
-        int n=nums.size();
-        //int m=nums[0].size();
-Disjointset ds(n);
+    vector<vector<string>> accountsMerge(vector<vector<string>>& arr) {
+        int n=arr.size();
+        Disjointset ds(n);
         unordered_map<string,int>mpp;
         for(int i=0;i<n;i++){
-            for(int j=1;j<nums[i].size();j++){
-                string mail=nums[i][j];
-                if(mpp.find(mail)==mpp.end())
-                mpp[mail]=i;
-                else
-                ds.unionBysize(i,mpp[mail]);
+            for(int j=1;j<(int)arr[i].size();j++){
+                string mail=arr[i][j];
+                if(mpp.find(mail)==mpp.end()){
+                    mpp[mail]=i;
+                }
+                else{
+                    ds.unionBysize(i,mpp[mail]);
+                }
             }
         }
-vector<vector<string>>idxmpp(n);
-for(auto it:mpp){
-    int idx=(it.second);
-    string mail=it.first;
-    int node=ds.findUpar(idx);
-    idxmpp[node].push_back(mail);
-}
-vector<vector<string>>ans;
-for(int i=0;i<n;i++){
-    if(idxmpp[i].size()==0) continue;
-    sort(idxmpp[i].begin(),idxmpp[i].end());
-    vector<string>temp;
-    temp.push_back(nums[i][0]);
-    for(auto it:idxmpp[i]){
-        temp.push_back(it);
-    }
-    ans.push_back(temp);
-}
-return ans;
-       
+        vector<vector<string>>mailnode(n);
+        for(auto it:mpp){
+            string mail_id=it.first;
+            int node=ds.findUpar(it.second);
+            mailnode[node].push_back(mail_id);
+        }
+        vector<vector<string>>ans;
+        for(int i=0;i<n;i++){
+            if(mailnode[i].size()==0) continue;
+            sort(mailnode[i].begin(),mailnode[i].end());
+            vector<string>temp;
+            temp.push_back(arr[i][0]);
+            for(auto it:mailnode[i]){
+                temp.push_back(it);
+            }
+            ans.push_back(temp);
+        }
+        return ans;
+
+
+        
     }
 };
