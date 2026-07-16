@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Deepali-mahawarr/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Deepali-mahawarr/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0042-trapping-rain-water](https://github.com/Deepali-mahawarr/DSA/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/Deepali-mahawarr/DSA/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/Deepali-mahawarr/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Deepali-mahawarr/DSA/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Deepali-mahawarr/DSA/tree/master/0074-search-a-2d-matrix) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Deepali-mahawarr/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deepali-mahawarr/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Deepali-mahawarr/DSA/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/Deepali-mahawarr/DSA/tree/master/0127-word-ladder) |
 | [0347-top-k-frequent-elements](https://github.com/Deepali-mahawarr/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Deepali-mahawarr/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Deepali-mahawarr/DSA/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/Deepali-mahawarr/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Deepali-mahawarr/DSA/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/Deepali-mahawarr/DSA/tree/master/0455-assign-cookies) |
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deepali-mahawarr/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0038-count-and-say](https://github.com/Deepali-mahawarr/DSA/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/Deepali-mahawarr/DSA/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Deepali-mahawarr/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Deepali-mahawarr/DSA/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Deepali-mahawarr/DSA/tree/master/0127-word-ladder) |
