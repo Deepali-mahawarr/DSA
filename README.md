@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Deepali-mahawarr/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Deepali-mahawarr/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0031-next-permutation](https://github.com/Deepali-mahawarr/DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Deepali-mahawarr/DSA/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Deepali-mahawarr/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Deepali-mahawarr/DSA/tree/master/0053-maximum-subarray) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Deepali-mahawarr/DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Deepali-mahawarr/DSA/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/Deepali-mahawarr/DSA/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/Deepali-mahawarr/DSA/tree/master/0455-assign-cookies) |
