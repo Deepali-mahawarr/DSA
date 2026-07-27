@@ -406,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Deepali-mahawarr/DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Deepali-mahawarr/DSA/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Deepali-mahawarr/DSA/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/Deepali-mahawarr/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Deepali-mahawarr/DSA/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/Deepali-mahawarr/DSA/tree/master/0455-assign-cookies) |
 | [1048-longest-string-chain](https://github.com/Deepali-mahawarr/DSA/tree/master/1048-longest-string-chain) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Deepali-mahawarr/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Deepali-mahawarr/DSA/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Deepali-mahawarr/DSA/tree/master/0127-word-ladder) |
+| [0151-reverse-words-in-a-string](https://github.com/Deepali-mahawarr/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Deepali-mahawarr/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/Deepali-mahawarr/DSA/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Deepali-mahawarr/DSA/tree/master/0424-longest-repeating-character-replacement) |
