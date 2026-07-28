@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Deepali-mahawarr/DSA/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/Deepali-mahawarr/DSA/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/Deepali-mahawarr/DSA/tree/master/0239-sliding-window-maximum) |
+| [0289-game-of-life](https://github.com/Deepali-mahawarr/DSA/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/Deepali-mahawarr/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Deepali-mahawarr/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/Deepali-mahawarr/DSA/tree/master/0312-burst-balloons) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Deepali-mahawarr/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/Deepali-mahawarr/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Deepali-mahawarr/DSA/tree/master/0200-number-of-islands) |
+| [0289-game-of-life](https://github.com/Deepali-mahawarr/DSA/tree/master/0289-game-of-life) |
 | [0542-01-matrix](https://github.com/Deepali-mahawarr/DSA/tree/master/0542-01-matrix) |
 | [0778-swim-in-rising-water](https://github.com/Deepali-mahawarr/DSA/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Deepali-mahawarr/DSA/tree/master/0827-making-a-large-island) |
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Deepali-mahawarr/DSA/tree/master/0054-spiral-matrix) |
+| [0289-game-of-life](https://github.com/Deepali-mahawarr/DSA/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/Deepali-mahawarr/DSA/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/Deepali-mahawarr/DSA/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Deepali-mahawarr/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
