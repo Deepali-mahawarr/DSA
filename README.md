@@ -524,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Deepali-mahawarr/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1048-longest-string-chain](https://github.com/Deepali-mahawarr/DSA/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Deepali-mahawarr/DSA/tree/master/1092-shortest-common-supersequence) |
+| [1108-defanging-an-ip-address](https://github.com/Deepali-mahawarr/DSA/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/Deepali-mahawarr/DSA/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Deepali-mahawarr/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Deepali-mahawarr/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
