@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Deepali-mahawarr/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deepali-mahawarr/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Deepali-mahawarr/DSA/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Deepali-mahawarr/DSA/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Deepali-mahawarr/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Deepali-mahawarr/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Deepali-mahawarr/DSA/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Deepali-mahawarr/DSA/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Deepali-mahawarr/DSA/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Deepali-mahawarr/DSA/tree/master/0062-unique-paths) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deepali-mahawarr/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Deepali-mahawarr/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Deepali-mahawarr/DSA/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/Deepali-mahawarr/DSA/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Deepali-mahawarr/DSA/tree/master/0049-group-anagrams) |
