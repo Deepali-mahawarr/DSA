@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Deepali-mahawarr/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/Deepali-mahawarr/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Deepali-mahawarr/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Deepali-mahawarr/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Deepali-mahawarr/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Deepali-mahawarr/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Deepali-mahawarr/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Deepali-mahawarr/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Deepali-mahawarr/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Deepali-mahawarr/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Deepali-mahawarr/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Deepali-mahawarr/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/Deepali-mahawarr/DSA/tree/master/1859-sorting-the-sentence) |
 | [1903-largest-odd-number-in-string](https://github.com/Deepali-mahawarr/DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -642,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Deepali-mahawarr/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Deepali-mahawarr/DSA/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Deepali-mahawarr/DSA/tree/master/0992-subarrays-with-k-different-integers) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Deepali-mahawarr/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Linked List
 |  |
 | ------- |
