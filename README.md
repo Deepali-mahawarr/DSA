@@ -495,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Deepali-mahawarr/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Deepali-mahawarr/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Deepali-mahawarr/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1859-sorting-the-sentence](https://github.com/Deepali-mahawarr/DSA/tree/master/1859-sorting-the-sentence) |
 | [3536-maximum-product-of-two-digits](https://github.com/Deepali-mahawarr/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Deepali-mahawarr/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Deepali-mahawarr/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Deepali-mahawarr/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1859-sorting-the-sentence](https://github.com/Deepali-mahawarr/DSA/tree/master/1859-sorting-the-sentence) |
 | [1903-largest-odd-number-in-string](https://github.com/Deepali-mahawarr/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Deepali-mahawarr/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2381-shifting-letters-ii](https://github.com/Deepali-mahawarr/DSA/tree/master/2381-shifting-letters-ii) |
