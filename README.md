@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/Deepali-mahawarr/DSA/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/Deepali-mahawarr/DSA/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Deepali-mahawarr/DSA/tree/master/0875-koko-eating-bananas) |
+| [0896-monotonic-array](https://github.com/Deepali-mahawarr/DSA/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/Deepali-mahawarr/DSA/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/Deepali-mahawarr/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/Deepali-mahawarr/DSA/tree/master/0930-binary-subarrays-with-sum) |
