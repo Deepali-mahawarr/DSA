@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Deepali-mahawarr/DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Deepali-mahawarr/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Deepali-mahawarr/DSA/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Deepali-mahawarr/DSA/tree/master/0062-unique-paths) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Deepali-mahawarr/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Deepali-mahawarr/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Deepali-mahawarr/DSA/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/Deepali-mahawarr/DSA/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Deepali-mahawarr/DSA/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Deepali-mahawarr/DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Deepali-mahawarr/DSA/tree/master/0058-length-of-last-word) |
@@ -684,4 +686,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Deepali-mahawarr/DSA/tree/master/0050-powx-n) |
 | [1922-count-good-numbers](https://github.com/Deepali-mahawarr/DSA/tree/master/1922-count-good-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Deepali-mahawarr/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
