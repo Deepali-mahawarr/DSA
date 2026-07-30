@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Deepali-mahawarr/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/Deepali-mahawarr/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Deepali-mahawarr/DSA/tree/master/1922-count-good-numbers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Deepali-mahawarr/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Deepali-mahawarr/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Deepali-mahawarr/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Deepali-mahawarr/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Deepali-mahawarr/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Deepali-mahawarr/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1903-largest-odd-number-in-string](https://github.com/Deepali-mahawarr/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Deepali-mahawarr/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
 |  |
 | ------- |
@@ -542,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Deepali-mahawarr/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Deepali-mahawarr/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2381-shifting-letters-ii](https://github.com/Deepali-mahawarr/DSA/tree/master/2381-shifting-letters-ii) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Deepali-mahawarr/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Deepali-mahawarr/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
