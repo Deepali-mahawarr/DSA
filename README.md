@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Deepali-mahawarr/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Deepali-mahawarr/DSA/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Deepali-mahawarr/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Deepali-mahawarr/DSA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Deepali-mahawarr/DSA/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Deepali-mahawarr/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Deepali-mahawarr/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Deepali-mahawarr/DSA/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/Deepali-mahawarr/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Deepali-mahawarr/DSA/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Deepali-mahawarr/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Deepali-mahawarr/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -701,5 +703,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Deepali-mahawarr/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Deepali-mahawarr/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Deepali-mahawarr/DSA/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/Deepali-mahawarr/DSA/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/Deepali-mahawarr/DSA/tree/master/0216-combination-sum-iii) |
 <!---LeetCode Topics End-->
