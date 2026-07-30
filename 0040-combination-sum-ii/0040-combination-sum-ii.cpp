@@ -14,7 +14,7 @@ void solve(int ind,int target,vector<int>& nums,vector<int>&ds, vector<vector<in
             return;
     }
 for(int i=ind;i<n;i++){
-    if(i>ind && nums[i]==nums[i-1])
+    if( i>ind && nums[i]==nums[i-1])
     continue;
     if(nums[i]>target) break;
     ds.push_back(nums[i]);
