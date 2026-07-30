@@ -5,7 +5,7 @@ public:
         vector<int>dp1(n,0),dp2(n,0);
         int sum=0;
         for(int i=0;i<n;i++){
-            if(i<x){//when we haven't considered x-size array
+            if(i<x){//when we have n't considered x-size array
                 sum+=nums[i]; 
                 dp1[i]=sum;
             }
