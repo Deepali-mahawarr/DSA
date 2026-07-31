@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Deepali-mahawarr/DSA/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Deepali-mahawarr/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Deepali-mahawarr/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Deepali-mahawarr/DSA/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Deepali-mahawarr/DSA/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Deepali-mahawarr/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Deepali-mahawarr/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Deepali-mahawarr/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Deepali-mahawarr/DSA/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Deepali-mahawarr/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Deepali-mahawarr/DSA/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Deepali-mahawarr/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Deepali-mahawarr/DSA/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/Deepali-mahawarr/DSA/tree/master/0289-game-of-life) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Deepali-mahawarr/DSA/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/Deepali-mahawarr/DSA/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Deepali-mahawarr/DSA/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Deepali-mahawarr/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -532,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Deepali-mahawarr/DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Deepali-mahawarr/DSA/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/Deepali-mahawarr/DSA/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/Deepali-mahawarr/DSA/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Deepali-mahawarr/DSA/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Deepali-mahawarr/DSA/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Deepali-mahawarr/DSA/tree/master/0131-palindrome-partitioning) |
@@ -716,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Deepali-mahawarr/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Deepali-mahawarr/DSA/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Deepali-mahawarr/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Deepali-mahawarr/DSA/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Deepali-mahawarr/DSA/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Deepali-mahawarr/DSA/tree/master/0216-combination-sum-iii) |
 <!---LeetCode Topics End-->
