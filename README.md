@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Deepali-mahawarr/DSA/tree/master/1020-number-of-enclaves) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Deepali-mahawarr/DSA/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1048-longest-string-chain](https://github.com/Deepali-mahawarr/DSA/tree/master/1048-longest-string-chain) |
+| [1122-relative-sort-array](https://github.com/Deepali-mahawarr/DSA/tree/master/1122-relative-sort-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Deepali-mahawarr/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/Deepali-mahawarr/DSA/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Deepali-mahawarr/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Deepali-mahawarr/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Deepali-mahawarr/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1048-longest-string-chain](https://github.com/Deepali-mahawarr/DSA/tree/master/1048-longest-string-chain) |
+| [1122-relative-sort-array](https://github.com/Deepali-mahawarr/DSA/tree/master/1122-relative-sort-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Deepali-mahawarr/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/Deepali-mahawarr/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Deepali-mahawarr/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -528,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/Deepali-mahawarr/DSA/tree/master/0846-hand-of-straights) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Deepali-mahawarr/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/Deepali-mahawarr/DSA/tree/master/1048-longest-string-chain) |
+| [1122-relative-sort-array](https://github.com/Deepali-mahawarr/DSA/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Deepali-mahawarr/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Deepali-mahawarr/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Deepali-mahawarr/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -748,4 +751,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Deepali-mahawarr/DSA/tree/master/0486-predict-the-winner) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/Deepali-mahawarr/DSA/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
