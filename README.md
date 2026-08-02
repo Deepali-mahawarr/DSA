@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Deepali-mahawarr/DSA/tree/master/0239-sliding-window-maximum) |
 | [0289-game-of-life](https://github.com/Deepali-mahawarr/DSA/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/Deepali-mahawarr/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0303-range-sum-query-immutable](https://github.com/Deepali-mahawarr/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Deepali-mahawarr/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/Deepali-mahawarr/DSA/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Deepali-mahawarr/DSA/tree/master/0322-coin-change) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Deepali-mahawarr/DSA/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/Deepali-mahawarr/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Deepali-mahawarr/DSA/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Deepali-mahawarr/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Deepali-mahawarr/DSA/tree/master/0930-binary-subarrays-with-sum) |
@@ -723,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Deepali-mahawarr/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0303-range-sum-query-immutable](https://github.com/Deepali-mahawarr/DSA/tree/master/0303-range-sum-query-immutable) |
 ## Binary Search Tree
 |  |
 | ------- |
