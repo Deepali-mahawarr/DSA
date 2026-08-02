@@ -13,7 +13,7 @@ public:
 
             if(((r-l+1)-maxfreq) > k){
                 freq[s[l]-'A']--;
-                maxfreq=0;
+               // maxfreq=0;
                 l++;
             }
             maxlen=max(maxlen,(r-l+1));
