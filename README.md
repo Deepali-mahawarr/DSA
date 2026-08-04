@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3238-find-the-number-of-winning-players](https://github.com/Deepali-mahawarr/DSA/tree/master/3238-find-the-number-of-winning-players) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Deepali-mahawarr/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3620-network-recovery-pathways](https://github.com/Deepali-mahawarr/DSA/tree/master/3620-network-recovery-pathways) |
+| [3731-find-missing-elements](https://github.com/Deepali-mahawarr/DSA/tree/master/3731-find-missing-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Deepali-mahawarr/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
 |  |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Deepali-mahawarr/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Deepali-mahawarr/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3238-find-the-number-of-winning-players](https://github.com/Deepali-mahawarr/DSA/tree/master/3238-find-the-number-of-winning-players) |
+| [3731-find-missing-elements](https://github.com/Deepali-mahawarr/DSA/tree/master/3731-find-missing-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Deepali-mahawarr/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Dynamic Programming
 |  |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/Deepali-mahawarr/DSA/tree/master/1859-sorting-the-sentence) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Deepali-mahawarr/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Deepali-mahawarr/DSA/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/Deepali-mahawarr/DSA/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
