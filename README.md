@@ -798,4 +798,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Deepali-mahawarr/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Deepali-mahawarr/DSA/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
