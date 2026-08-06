@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Deepali-mahawarr/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Deepali-mahawarr/DSA/tree/master/1922-count-good-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Deepali-mahawarr/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Deepali-mahawarr/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Deepali-mahawarr/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Deepali-mahawarr/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Deepali-mahawarr/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/Deepali-mahawarr/DSA/tree/master/1291-sequential-digits) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Deepali-mahawarr/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Deepali-mahawarr/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Deepali-mahawarr/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Deepali-mahawarr/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Number Theory
 |  |
