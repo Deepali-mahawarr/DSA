@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/Deepali-mahawarr/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Deepali-mahawarr/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Deepali-mahawarr/DSA/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Deepali-mahawarr/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [2104-sum-of-subarray-ranges](https://github.com/Deepali-mahawarr/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Deepali-mahawarr/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2381-shifting-letters-ii](https://github.com/Deepali-mahawarr/DSA/tree/master/2381-shifting-letters-ii) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Deepali-mahawarr/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Deepali-mahawarr/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Deepali-mahawarr/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Deepali-mahawarr/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Deepali-mahawarr/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Deepali-mahawarr/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3238-find-the-number-of-winning-players](https://github.com/Deepali-mahawarr/DSA/tree/master/3238-find-the-number-of-winning-players) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Deepali-mahawarr/DSA/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/Deepali-mahawarr/DSA/tree/master/1291-sequential-digits) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Deepali-mahawarr/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Deepali-mahawarr/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Deepali-mahawarr/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Number Theory
@@ -554,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Deepali-mahawarr/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Deepali-mahawarr/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1859-sorting-the-sentence](https://github.com/Deepali-mahawarr/DSA/tree/master/1859-sorting-the-sentence) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Deepali-mahawarr/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Deepali-mahawarr/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Deepali-mahawarr/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Deepali-mahawarr/DSA/tree/master/3731-find-missing-elements) |
@@ -762,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Deepali-mahawarr/DSA/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/Deepali-mahawarr/DSA/tree/master/0486-predict-the-winner) |
 | [1922-count-good-numbers](https://github.com/Deepali-mahawarr/DSA/tree/master/1922-count-good-numbers) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Deepali-mahawarr/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 ## Backtracking
 |  |
 | ------- |
