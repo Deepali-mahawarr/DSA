@@ -2,7 +2,7 @@ class Solution {
 public:
     bool isNStraightHand(vector<int>& hand, int gs) {
         int n=hand.size();
-        if(n%gs) return false;
+        if(n%gs!=0) return false;
         map<int,int>mpp;
         for(auto it:hand){
             mpp[it]++;
