@@ -8,7 +8,7 @@ public:
         int r=0;
 
         
-        long long mul=1;
+        int  mul=1;
         while(r<n){
            
              mul=mul*nums[r];
