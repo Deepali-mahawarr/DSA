@@ -9,7 +9,7 @@ public:
         for(int i=0;i<26;i++){
             if(mpp[i])
             pq.push(mpp[i]);
-        }
+         }
         int time=0;
         while(!pq.empty()){
             vector<int>temp;
