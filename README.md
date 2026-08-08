@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Deepali-mahawarr/DSA/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/Deepali-mahawarr/DSA/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Deepali-mahawarr/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0566-reshape-the-matrix](https://github.com/Deepali-mahawarr/DSA/tree/master/0566-reshape-the-matrix) |
 | [0621-task-scheduler](https://github.com/Deepali-mahawarr/DSA/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Deepali-mahawarr/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Deepali-mahawarr/DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Deepali-mahawarr/DSA/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/Deepali-mahawarr/DSA/tree/master/0289-game-of-life) |
 | [0542-01-matrix](https://github.com/Deepali-mahawarr/DSA/tree/master/0542-01-matrix) |
+| [0566-reshape-the-matrix](https://github.com/Deepali-mahawarr/DSA/tree/master/0566-reshape-the-matrix) |
 | [0778-swim-in-rising-water](https://github.com/Deepali-mahawarr/DSA/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Deepali-mahawarr/DSA/tree/master/0827-making-a-large-island) |
 | [1020-number-of-enclaves](https://github.com/Deepali-mahawarr/DSA/tree/master/1020-number-of-enclaves) |
@@ -647,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Deepali-mahawarr/DSA/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/Deepali-mahawarr/DSA/tree/master/0289-game-of-life) |
+| [0566-reshape-the-matrix](https://github.com/Deepali-mahawarr/DSA/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/Deepali-mahawarr/DSA/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/Deepali-mahawarr/DSA/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Deepali-mahawarr/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
