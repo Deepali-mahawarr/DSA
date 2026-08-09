@@ -1,12 +1,12 @@
 class NumArray {
-    vector<int>pre;
+vector<int>pre;
 public:
-    NumArray(vector<int>& nums) {
-        pre=nums;
-        for(int i=1;i<nums.size();i++){
-            pre[i]=pre[i-1]+pre[i];
+NumArray(vector<int>& nums) {
+    pre=nums;
+    for(int i=1;i<nums.size();i++){
+        pre[i]=pre[i-1]+pre[i];
         }
-    }
+}
     
     int sumRange(int left, int right) {
         if(left==0) return pre[right];
