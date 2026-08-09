@@ -6,12 +6,12 @@ public:
         sort(g.begin(),g.end());
         sort(s.begin(),s.end());
         while(l<s.size() && r<g.size())
-{
-    if(s[l]>=g[r]){
-        r++;
-    }
-    l++;
-} 
-return r;       
-    }
+        {
+            if(s[l]>=g[r]){
+            r++;
+         }
+            l++;
+        } 
+        return r;       
+        }
 };
