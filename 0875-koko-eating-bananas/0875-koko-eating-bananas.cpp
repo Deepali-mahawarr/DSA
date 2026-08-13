@@ -11,7 +11,7 @@ long long  findhour(vector<int>& piles,int mid){
 }
     int minEatingSpeed(vector<int>& piles, int h) {
         int n=piles.size();
-        // int low=*min_element(piles.begin(),piles.end());
+        
         int low=1;
         int high=*max_element(piles.begin(),piles.end());
         while(low<=high){
