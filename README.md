@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Deepali-mahawarr/DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Deepali-mahawarr/DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Deepali-mahawarr/DSA/tree/master/0239-sliding-window-maximum) |
+| [0287-find-the-duplicate-number](https://github.com/Deepali-mahawarr/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/Deepali-mahawarr/DSA/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/Deepali-mahawarr/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Deepali-mahawarr/DSA/tree/master/0303-range-sum-query-immutable) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Deepali-mahawarr/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Deepali-mahawarr/DSA/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Deepali-mahawarr/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/Deepali-mahawarr/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0832-flipping-an-image](https://github.com/Deepali-mahawarr/DSA/tree/master/0832-flipping-an-image) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Deepali-mahawarr/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Divide and Conquer
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Deepali-mahawarr/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Deepali-mahawarr/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/Deepali-mahawarr/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/Deepali-mahawarr/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Deepali-mahawarr/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Deepali-mahawarr/DSA/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Deepali-mahawarr/DSA/tree/master/0713-subarray-product-less-than-k) |
@@ -515,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Deepali-mahawarr/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Deepali-mahawarr/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Deepali-mahawarr/DSA/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Deepali-mahawarr/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/Deepali-mahawarr/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/Deepali-mahawarr/DSA/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Deepali-mahawarr/DSA/tree/master/0567-permutation-in-string) |
@@ -881,6 +885,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Deepali-mahawarr/DSA/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Deepali-mahawarr/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Quicksort
 |  |
 | ------- |
@@ -890,4 +895,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Deepali-mahawarr/DSA/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Deepali-mahawarr/DSA/tree/master/0678-valid-parenthesis-string) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Deepali-mahawarr/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
