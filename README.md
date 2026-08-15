@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Deepali-mahawarr/DSA/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Deepali-mahawarr/DSA/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Deepali-mahawarr/DSA/tree/master/0139-word-break) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Deepali-mahawarr/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Deepali-mahawarr/DSA/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Deepali-mahawarr/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Deepali-mahawarr/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Deepali-mahawarr/DSA/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Deepali-mahawarr/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Deepali-mahawarr/DSA/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Deepali-mahawarr/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Deepali-mahawarr/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Deepali-mahawarr/DSA/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Deepali-mahawarr/DSA/tree/master/0204-count-primes) |
@@ -541,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Deepali-mahawarr/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Deepali-mahawarr/DSA/tree/master/0085-maximal-rectangle) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Deepali-mahawarr/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Deepali-mahawarr/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Deepali-mahawarr/DSA/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/Deepali-mahawarr/DSA/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Deepali-mahawarr/DSA/tree/master/0402-remove-k-digits) |
