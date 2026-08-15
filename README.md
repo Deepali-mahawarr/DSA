@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Deepali-mahawarr/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/Deepali-mahawarr/DSA/tree/master/0721-accounts-merge) |
 | [0735-asteroid-collision](https://github.com/Deepali-mahawarr/DSA/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Deepali-mahawarr/DSA/tree/master/0739-daily-temperatures) |
 | [0778-swim-in-rising-water](https://github.com/Deepali-mahawarr/DSA/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Deepali-mahawarr/DSA/tree/master/0827-making-a-large-island) |
 | [0832-flipping-an-image](https://github.com/Deepali-mahawarr/DSA/tree/master/0832-flipping-an-image) |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Deepali-mahawarr/DSA/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/Deepali-mahawarr/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Deepali-mahawarr/DSA/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Deepali-mahawarr/DSA/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/Deepali-mahawarr/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/Deepali-mahawarr/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Deepali-mahawarr/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -558,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Deepali-mahawarr/DSA/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/Deepali-mahawarr/DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Deepali-mahawarr/DSA/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Deepali-mahawarr/DSA/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/Deepali-mahawarr/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/Deepali-mahawarr/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Enumeration
