@@ -9,18 +9,18 @@ public:
                 k--;
             }
             st.push(s[i]);
-        }
-        while(k){
+        } 
+        while(k){ //when sting is in sorted order
             st.pop();
             k--;
         }
-        if(st.empty()) return "0";
+        if(st.empty()) return "0"; // for k==N
         string ans="";
         while(!st.empty()){
             ans.push_back(st.top());
             st.pop();
         }
-        while(ans.size()>0 && ans.back()=='0') ans.pop_back();
+        while(ans.size()>0 && ans.back()=='0') ans.pop_back(); /// for leading zeros
         if(ans.size()==0) return "0";
         reverse(ans.begin(),ans.end());
         return ans;
