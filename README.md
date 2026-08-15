@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Deepali-mahawarr/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Deepali-mahawarr/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Deepali-mahawarr/DSA/tree/master/0079-word-search) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Deepali-mahawarr/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Deepali-mahawarr/DSA/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Deepali-mahawarr/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Deepali-mahawarr/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Deepali-mahawarr/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Deepali-mahawarr/DSA/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Deepali-mahawarr/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Deepali-mahawarr/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/Deepali-mahawarr/DSA/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/Deepali-mahawarr/DSA/tree/master/0394-decode-string) |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Deepali-mahawarr/DSA/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Deepali-mahawarr/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/Deepali-mahawarr/DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Deepali-mahawarr/DSA/tree/master/0496-next-greater-element-i) |
 | [0907-sum-of-subarray-minimums](https://github.com/Deepali-mahawarr/DSA/tree/master/0907-sum-of-subarray-minimums) |
@@ -899,4 +902,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Deepali-mahawarr/DSA/tree/master/0287-find-the-duplicate-number) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Deepali-mahawarr/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
