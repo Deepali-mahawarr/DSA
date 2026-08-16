@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Deepali-mahawarr/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1901-find-a-peak-element-ii](https://github.com/Deepali-mahawarr/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Deepali-mahawarr/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2029-stone-game-ix](https://github.com/Deepali-mahawarr/DSA/tree/master/2029-stone-game-ix) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Deepali-mahawarr/DSA/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Deepali-mahawarr/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [2104-sum-of-subarray-ranges](https://github.com/Deepali-mahawarr/DSA/tree/master/2104-sum-of-subarray-ranges) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Deepali-mahawarr/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/Deepali-mahawarr/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Deepali-mahawarr/DSA/tree/master/1922-count-good-numbers) |
+| [2029-stone-game-ix](https://github.com/Deepali-mahawarr/DSA/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Deepali-mahawarr/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Deepali-mahawarr/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Deepali-mahawarr/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -607,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Deepali-mahawarr/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Deepali-mahawarr/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1903-largest-odd-number-in-string](https://github.com/Deepali-mahawarr/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [2029-stone-game-ix](https://github.com/Deepali-mahawarr/DSA/tree/master/2029-stone-game-ix) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Deepali-mahawarr/DSA/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Deepali-mahawarr/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Deepali-mahawarr/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -828,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Deepali-mahawarr/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Deepali-mahawarr/DSA/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Deepali-mahawarr/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2029-stone-game-ix](https://github.com/Deepali-mahawarr/DSA/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Deepali-mahawarr/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3238-find-the-number-of-winning-players](https://github.com/Deepali-mahawarr/DSA/tree/master/3238-find-the-number-of-winning-players) |
 ## Linked List
@@ -898,6 +902,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Deepali-mahawarr/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Deepali-mahawarr/DSA/tree/master/0877-stone-game) |
+| [2029-stone-game-ix](https://github.com/Deepali-mahawarr/DSA/tree/master/2029-stone-game-ix) |
 ## Counting Sort
 |  |
 | ------- |
@@ -938,4 +943,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Deepali-mahawarr/DSA/tree/master/0146-lru-cache) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Deepali-mahawarr/DSA/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Deepali-mahawarr/DSA/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Deepali-mahawarr/DSA/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
