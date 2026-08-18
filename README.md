@@ -838,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Deepali-mahawarr/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Deepali-mahawarr/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Deepali-mahawarr/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0146-lru-cache](https://github.com/Deepali-mahawarr/DSA/tree/master/0146-lru-cache) |
 ## Binary Indexed Tree
@@ -877,6 +878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Deepali-mahawarr/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Deepali-mahawarr/DSA/tree/master/0050-powx-n) |
 | [0390-elimination-game](https://github.com/Deepali-mahawarr/DSA/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/Deepali-mahawarr/DSA/tree/master/0394-decode-string) |
