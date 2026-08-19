@@ -683,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/Deepali-mahawarr/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/Deepali-mahawarr/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/Deepali-mahawarr/DSA/tree/master/0721-accounts-merge) |
+| [0796-rotate-string](https://github.com/Deepali-mahawarr/DSA/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Deepali-mahawarr/DSA/tree/master/0844-backspace-string-compare) |
 | [0942-di-string-match](https://github.com/Deepali-mahawarr/DSA/tree/master/0942-di-string-match) |
 | [1021-remove-outermost-parentheses](https://github.com/Deepali-mahawarr/DSA/tree/master/1021-remove-outermost-parentheses) |
@@ -958,4 +959,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/Deepali-mahawarr/DSA/tree/master/2029-stone-game-ix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Deepali-mahawarr/DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
