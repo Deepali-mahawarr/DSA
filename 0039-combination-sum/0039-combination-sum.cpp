@@ -18,7 +18,7 @@ void solve(int ind,int target,vector<int>& nums,vector<int>&ds, vector<vector<in
         ds.pop_back();
         }
         solve(ind+1,target,nums,ds,ans);
-
+     
 
     }
 
