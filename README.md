@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Deepali-mahawarr/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Deepali-mahawarr/DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Deepali-mahawarr/DSA/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/Deepali-mahawarr/DSA/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/Deepali-mahawarr/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Deepali-mahawarr/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Deepali-mahawarr/DSA/tree/master/0040-combination-sum-ii) |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Deepali-mahawarr/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/Deepali-mahawarr/DSA/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Deepali-mahawarr/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Deepali-mahawarr/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Deepali-mahawarr/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
