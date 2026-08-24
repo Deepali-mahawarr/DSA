@@ -6,7 +6,7 @@ void dfs(int row,int col,vector<vector<int>>&vis,vector<vector<char>>&mat){
     int drow[4]={0,0,1,-1};
         int dcol[4]={-1,1,0,0};
         vis[row][col]=1;
-        for(int i=0;i<4;i++){
+        for(int i=0;i<4;i++){ 
             int nrow=row+drow[i];
             int ncol=col+dcol[i];
             if(nrow>=0 && nrow<n && ncol>=0 && ncol<m && !vis[nrow][ncol] && mat[nrow][ncol]=='O')
@@ -41,7 +41,5 @@ void dfs(int row,int col,vector<vector<int>>&vis,vector<vector<char>>&mat){
                 mat[i][j]='X';
             }
         }
-
-        
-    }
+}
 };
