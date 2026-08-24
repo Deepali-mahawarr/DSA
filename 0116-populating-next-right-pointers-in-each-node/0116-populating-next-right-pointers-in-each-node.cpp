@@ -19,31 +19,26 @@ public:
 class Solution {
 public:
     Node* connect(Node* root) {
-        if (root == NULL)
-            return NULL;
-
-        queue<Node*> q;
+        if(root==nullptr) return root;
+        queue<Node*>q;
         q.push(root);
-
-        while (!q.empty()) {
-            int size = q.size();
-
-            for (int i = 0; i < size; i++) {
-                Node* curr = q.front();
+        while(!q.empty()){
+            int size=q.size();
+            for(int i=0;i<size;i++){
+                Node*curr=q.front();
                 q.pop();
-
-                // Connect current node to next node in same level
-                if (i < size - 1)
-                    curr->next = q.front();
-
-                if (curr->left)
+                if(i<size-1)
+                curr->next=q.front();
+                if(curr->left){
                     q.push(curr->left);
+                
+                }
+                if(curr->right)
 
-                if (curr->right)
-                    q.push(curr->right);
+                q.push(curr->right);
             }
         }
-
         return root;
+        
     }
 };
