@@ -7,7 +7,7 @@ bool dfs(int node,int col,vector<int>&color,vector<vector<int>>& arr){
            if( dfs(it,!col,color,arr)==false)
            return false;
         }
-        else if(color[it]==col)
+        else if(color[it]==color[node])
         return false;
     }
     return true;
