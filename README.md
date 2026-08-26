@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/Deepali-mahawarr/DSA/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Deepali-mahawarr/DSA/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Deepali-mahawarr/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Deepali-mahawarr/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/Deepali-mahawarr/DSA/tree/master/0368-largest-divisible-subset) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Deepali-mahawarr/DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0410-split-array-largest-sum](https://github.com/Deepali-mahawarr/DSA/tree/master/0410-split-array-largest-sum) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Deepali-mahawarr/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Deepali-mahawarr/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Deepali-mahawarr/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Deepali-mahawarr/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/Deepali-mahawarr/DSA/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Deepali-mahawarr/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Deepali-mahawarr/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Deepali-mahawarr/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Deepali-mahawarr/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Deepali-mahawarr/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/Deepali-mahawarr/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Deepali-mahawarr/DSA/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Deepali-mahawarr/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0778-swim-in-rising-water](https://github.com/Deepali-mahawarr/DSA/tree/master/0778-swim-in-rising-water) |
@@ -546,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Deepali-mahawarr/DSA/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Deepali-mahawarr/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/Deepali-mahawarr/DSA/tree/master/0295-find-median-from-data-stream) |
+| [0349-intersection-of-two-arrays](https://github.com/Deepali-mahawarr/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Deepali-mahawarr/DSA/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Deepali-mahawarr/DSA/tree/master/0567-permutation-in-string) |
 | [0832-flipping-an-image](https://github.com/Deepali-mahawarr/DSA/tree/master/0832-flipping-an-image) |
@@ -642,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Deepali-mahawarr/DSA/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/Deepali-mahawarr/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Deepali-mahawarr/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Deepali-mahawarr/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/Deepali-mahawarr/DSA/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/Deepali-mahawarr/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Deepali-mahawarr/DSA/tree/master/0451-sort-characters-by-frequency) |
