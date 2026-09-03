@@ -437,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1922-count-good-numbers](https://github.com/Deepali-mahawarr/DSA/tree/master/1922-count-good-numbers) |
 | [2029-stone-game-ix](https://github.com/Deepali-mahawarr/DSA/tree/master/2029-stone-game-ix) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Deepali-mahawarr/DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [2928-distribute-candies-among-children-i](https://github.com/Deepali-mahawarr/DSA/tree/master/2928-distribute-candies-among-children-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Deepali-mahawarr/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Deepali-mahawarr/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Deepali-mahawarr/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -613,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Deepali-mahawarr/DSA/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/Deepali-mahawarr/DSA/tree/master/1291-sequential-digits) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Deepali-mahawarr/DSA/tree/master/2094-finding-3-digit-even-numbers) |
+| [2928-distribute-candies-among-children-i](https://github.com/Deepali-mahawarr/DSA/tree/master/2928-distribute-candies-among-children-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Deepali-mahawarr/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Deepali-mahawarr/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Deepali-mahawarr/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -787,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Deepali-mahawarr/DSA/tree/master/0062-unique-paths) |
+| [2928-distribute-candies-among-children-i](https://github.com/Deepali-mahawarr/DSA/tree/master/2928-distribute-candies-among-children-i) |
 ## Biconnected Component
 |  |
 | ------- |
