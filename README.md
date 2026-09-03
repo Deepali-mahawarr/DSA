@@ -1091,4 +1091,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Deepali-mahawarr/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Deepali-mahawarr/DSA/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
