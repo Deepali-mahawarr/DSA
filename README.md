@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Deepali-mahawarr/DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Deepali-mahawarr/DSA/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Deepali-mahawarr/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Deepali-mahawarr/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Deepali-mahawarr/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/Deepali-mahawarr/DSA/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/Deepali-mahawarr/DSA/tree/master/0300-longest-increasing-subsequence) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Deepali-mahawarr/DSA/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Deepali-mahawarr/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Deepali-mahawarr/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Deepali-mahawarr/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Deepali-mahawarr/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Deepali-mahawarr/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/Deepali-mahawarr/DSA/tree/master/0409-longest-palindrome) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Deepali-mahawarr/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Deepali-mahawarr/DSA/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Deepali-mahawarr/DSA/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/Deepali-mahawarr/DSA/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/Deepali-mahawarr/DSA/tree/master/0368-largest-divisible-subset) |
 | [0390-elimination-game](https://github.com/Deepali-mahawarr/DSA/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/Deepali-mahawarr/DSA/tree/master/0486-predict-the-winner) |
@@ -463,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Deepali-mahawarr/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Deepali-mahawarr/DSA/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Deepali-mahawarr/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/Deepali-mahawarr/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Deepali-mahawarr/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0832-flipping-an-image](https://github.com/Deepali-mahawarr/DSA/tree/master/0832-flipping-an-image) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Deepali-mahawarr/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -515,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Deepali-mahawarr/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/Deepali-mahawarr/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Deepali-mahawarr/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Deepali-mahawarr/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Deepali-mahawarr/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Deepali-mahawarr/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Deepali-mahawarr/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -677,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Deepali-mahawarr/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Deepali-mahawarr/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Deepali-mahawarr/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Deepali-mahawarr/DSA/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/Deepali-mahawarr/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Deepali-mahawarr/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Deepali-mahawarr/DSA/tree/master/0349-intersection-of-two-arrays) |
