@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Deepali-mahawarr/DSA/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Deepali-mahawarr/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Deepali-mahawarr/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Deepali-mahawarr/DSA/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Deepali-mahawarr/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/Deepali-mahawarr/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Deepali-mahawarr/DSA/tree/master/0198-house-robber) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Deepali-mahawarr/DSA/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/Deepali-mahawarr/DSA/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/Deepali-mahawarr/DSA/tree/master/0149-max-points-on-a-line) |
+| [0169-majority-element](https://github.com/Deepali-mahawarr/DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Deepali-mahawarr/DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Deepali-mahawarr/DSA/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Deepali-mahawarr/DSA/tree/master/0229-majority-element-ii) |
@@ -472,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Deepali-mahawarr/DSA/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Deepali-mahawarr/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Deepali-mahawarr/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0169-majority-element](https://github.com/Deepali-mahawarr/DSA/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Deepali-mahawarr/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Deepali-mahawarr/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Deepali-mahawarr/DSA/tree/master/0918-maximum-sum-circular-subarray) |
@@ -671,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Deepali-mahawarr/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Deepali-mahawarr/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Deepali-mahawarr/DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Deepali-mahawarr/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Deepali-mahawarr/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Deepali-mahawarr/DSA/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/Deepali-mahawarr/DSA/tree/master/0295-find-median-from-data-stream) |
@@ -896,6 +900,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Deepali-mahawarr/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Deepali-mahawarr/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Deepali-mahawarr/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Deepali-mahawarr/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -1116,4 +1121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Deepali-mahawarr/DSA/tree/master/0075-sort-colors) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Deepali-mahawarr/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
