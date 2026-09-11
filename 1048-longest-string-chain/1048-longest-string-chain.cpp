@@ -9,7 +9,7 @@ static bool comp(string &s1 ,string &s2){
         int first=0;
         int second=0;
         while(first<s1.size()){
-            if(s1[first]==s2[second]){
+            if(s1[first]==s2[second]){ 
             first++;
             second++;
             }
