@@ -1031,6 +1031,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Deepali-mahawarr/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Deepali-mahawarr/DSA/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/Deepali-mahawarr/DSA/tree/master/0455-assign-cookies) |
 ## Bracket Sequences
