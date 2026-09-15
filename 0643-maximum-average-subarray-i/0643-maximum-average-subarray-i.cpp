@@ -39,6 +39,7 @@ public:
             if(r-l+1 == k){
 
              maxavg=max(maxavg,(double)sum/k);
+             
             }
              r++;
 
