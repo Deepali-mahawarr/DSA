@@ -6,7 +6,7 @@ public:
         vector<int>sfreq(26,0);
         vector<int>pfreq(26,0);
         vector<int>ans;
-        if(m>n) return ans;
+        //if(m>n) return ans;
        for(auto it:p){
         pfreq[it-'a']++;
        }
