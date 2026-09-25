@@ -946,6 +946,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Deepali-mahawarr/DSA/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/Deepali-mahawarr/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Deepali-mahawarr/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0092-reverse-linked-list-ii](https://github.com/Deepali-mahawarr/DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Deepali-mahawarr/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Deepali-mahawarr/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0146-lru-cache](https://github.com/Deepali-mahawarr/DSA/tree/master/0146-lru-cache) |
