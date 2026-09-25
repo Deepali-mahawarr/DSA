@@ -1,32 +1,31 @@
 class Solution {
 public:
-    bool isPalindrome(string &s, int i, int j) {
-        while(i < j) {
-            if(s[i] != s[j])
-                return false;
+    bool ispalindrome(string &s,int i,int j){
+        int n=s.size();
+        while(i<=j){
+            if(s[i]!=s[j]) return false;
             i++;
             j--;
+
         }
         return true;
     }
-
     string longestPalindrome(string s) {
-        int n = s.size();
+        int n=s.size();
+        int maxlen=1;
+        int start=0;
 
-        int start = 0;
-        int maxLen = 1;
-
-        for(int i = 0; i < n; i++) {
-            for(int j = i; j < n; j++) {
-                if(isPalindrome(s, i, j)) {
-                    if(j - i + 1 > maxLen) {
-                        maxLen = j - i + 1;
-                        start = i;
+         for(int i=0;i<n;i++){
+            for(int j=i;j<n;j++){
+                if(ispalindrome(s,i,j)){
+                    if((j-i+1)>maxlen){
+                        maxlen=j-i+1;
+                        start=i;
                     }
                 }
             }
-        }
-
-        return s.substr(start, maxLen);
+         }
+         return s.substr(start,maxlen);
+        
     }
 };
