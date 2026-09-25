@@ -949,6 +949,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Deepali-mahawarr/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Deepali-mahawarr/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0146-lru-cache](https://github.com/Deepali-mahawarr/DSA/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/Deepali-mahawarr/DSA/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Deepali-mahawarr/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 ## Binary Indexed Tree
 |  |
@@ -994,6 +995,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Deepali-mahawarr/DSA/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Deepali-mahawarr/DSA/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Deepali-mahawarr/DSA/tree/master/0060-permutation-sequence) |
+| [0206-reverse-linked-list](https://github.com/Deepali-mahawarr/DSA/tree/master/0206-reverse-linked-list) |
 | [0390-elimination-game](https://github.com/Deepali-mahawarr/DSA/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/Deepali-mahawarr/DSA/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/Deepali-mahawarr/DSA/tree/master/0486-predict-the-winner) |
