@@ -32,7 +32,7 @@ public:
           index++;
             
         }
-         sum =sum+num(s[index]);
+        sum =sum+num(s[index]);
         return sum;   
             
          
