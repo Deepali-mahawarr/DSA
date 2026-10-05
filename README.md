@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2381-shifting-letters-ii](https://github.com/Deepali-mahawarr/DSA/tree/master/2381-shifting-letters-ii) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Deepali-mahawarr/DSA/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2643-row-with-maximum-ones](https://github.com/Deepali-mahawarr/DSA/tree/master/2643-row-with-maximum-ones) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Deepali-mahawarr/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Deepali-mahawarr/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Deepali-mahawarr/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Deepali-mahawarr/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Deepali-mahawarr/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Deepali-mahawarr/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2522-partition-string-into-substrings-with-values-at-most-k](https://github.com/Deepali-mahawarr/DSA/tree/master/2522-partition-string-into-substrings-with-values-at-most-k) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Deepali-mahawarr/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3620-network-recovery-pathways](https://github.com/Deepali-mahawarr/DSA/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
 |  |
