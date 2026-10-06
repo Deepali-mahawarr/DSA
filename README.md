@@ -640,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/Deepali-mahawarr/DSA/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/Deepali-mahawarr/DSA/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Deepali-mahawarr/DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Deepali-mahawarr/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Deepali-mahawarr/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Deepali-mahawarr/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Deepali-mahawarr/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -690,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Deepali-mahawarr/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0846-hand-of-straights](https://github.com/Deepali-mahawarr/DSA/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/Deepali-mahawarr/DSA/tree/master/0860-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Deepali-mahawarr/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/Deepali-mahawarr/DSA/tree/master/0942-di-string-match) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Deepali-mahawarr/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Deepali-mahawarr/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -783,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Deepali-mahawarr/DSA/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Deepali-mahawarr/DSA/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Deepali-mahawarr/DSA/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Deepali-mahawarr/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/Deepali-mahawarr/DSA/tree/master/0942-di-string-match) |
 | [1021-remove-outermost-parentheses](https://github.com/Deepali-mahawarr/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Deepali-mahawarr/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -1073,6 +1076,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Deepali-mahawarr/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Deepali-mahawarr/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Deepali-mahawarr/DSA/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Deepali-mahawarr/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Deepali-mahawarr/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Deepali-mahawarr/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Pigeonhole Principle
