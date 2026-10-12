@@ -7,12 +7,12 @@ void solve(int ind,int target,vector<int>& nums,vector<int>&ds, vector<vector<in
         ans.push_back(ds);
     return;
     }
-     if(ind==n){
-        if(target==0){
-            ans.push_back(ds);
-        }
-            return;
-    }
+    //  if(ind==n){
+    //     if(target==0){
+    //         ans.push_back(ds);
+    //     }
+    //         return;
+    // }
 for(int i=ind;i<n;i++){
     if( i>ind && nums[i]==nums[i-1])
     continue;
